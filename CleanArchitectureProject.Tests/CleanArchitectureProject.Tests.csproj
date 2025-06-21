@@ -26,7 +26,6 @@
     <ProjectReference Include="..\CleanArchitectureProject.Application\CleanArchitectureProject.Application.csproj" />
     <ProjectReference Include="..\CleanArchitectureProject.Domain\CleanArchitectureProject.Domain.csproj" />
     <ProjectReference Include="..\CleanArchitectureProject.Infrastructure\CleanArchitectureProject.Infrastructure.csproj" />
-    <ProjectReference Include="..\CleanArchitectureProject.WebApi\CleanArchitectureProject.WebApi.csproj" />
   </ItemGroup>
 
   <ItemGroup>
